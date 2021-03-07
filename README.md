@@ -1,10 +1,5 @@
 Exemplo de composição de Classes em C#
 
-- Entidades:
-    [x] Client
-    [x] Product
-    [x] Order
-    [x] OrderItem
+- Entidades: Client, Product, Order, OrderItem
 
-- Enum:
-    [x] OrderStatus
+- Enum: OrderStatus
